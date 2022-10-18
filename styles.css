@@ -1,0 +1,105 @@
+body{
+    background-color:#E6E6E6;
+   
+}
+.titulo{
+    background-color: white;
+    position: relative;
+  text-align: center;
+}
+
+.pub1{
+   width:500px;
+   margin: auto; 
+   background-color: white; 
+   font: size 7px;;
+}
+
+.descripcion{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+}
+
+.numero1{
+    color:gray;
+}
+
+a{
+    font-weight: bold;
+    color:black;
+}
+
+.m1{
+    font-weight: bold;
+    color:black;
+}
+
+ .segunda{
+    width:500px;
+    margin: auto; 
+    background-color: white; 
+    font: size 7px;;
+ }
+ 
+ .descripcion2{
+     display: flex;
+     justify-content: space-between;
+     padding: 0px 15px;
+ }
+ 
+ .numero2{
+     color:gray;
+ }
+ 
+ 
+ .m2{
+     font-weight: bold;
+     color:black;
+     }
+
+     .tres{
+        width:500px;
+        margin: auto; 
+        background-color: white; 
+        font: size 7px;;
+     }
+     
+     .descripcion3{
+         display: flex;
+         justify-content: space-between;
+         padding: 0px 15px;
+     }
+     
+     .numero3{
+         color:gray;
+     }
+     
+     
+     .m3{
+         font-weight: bold;
+         color:black;
+         }
+
+         .cuatro{
+            width:500px;
+            margin: auto; 
+            background-color: white; 
+            font: size 7px;;
+         }
+         
+         .descripcion4{
+             display: flex;
+             justify-content: space-between;
+             padding: 0px 15px;
+         }
+         
+         .numero4{
+             color:gray;
+         }
+         
+         
+         .m4{
+             font-weight: bold;
+             color:black;
+             }
